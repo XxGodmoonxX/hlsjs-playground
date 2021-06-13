@@ -21,6 +21,6 @@
     "isolatedModules": true,
     "baseUrl": "./src"
   },
-  "exclude": ["node_modules", "src/data"],
+  "exclude": ["node_modules", "public/*"],
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
 }
